@@ -25,5 +25,10 @@ namespace OdeToFood.Data.Services
 			//Using LINQ OrderBy, given a restaurant r, order by restaunt name in ascending order
 			return restaurants.OrderBy(r => r.Name);
 		}
+
+		public Restaurant Get(int id)
+		{
+			return restaurants.FirstOrDefault(r => r.Id == id);
+		}
 	}
 }
