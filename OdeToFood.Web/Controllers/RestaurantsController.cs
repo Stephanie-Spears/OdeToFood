@@ -16,6 +16,7 @@ namespace OdeToFood.Web.Controllers
 	    {
 		    this.db = db;
 	    }
+
         // GET: Restaurant
         public ActionResult Index()
         {
