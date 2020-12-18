@@ -109,3 +109,7 @@ C:\Users\Stephanie\Desktop\Projects\OdeToFood\OdeToFood.Web\bin\Autofac.Integrat
 C:\Users\Stephanie\Desktop\Projects\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.pdb
 C:\Users\Stephanie\Desktop\Projects\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.xml
 C:\Users\Stephanie\Desktop\Projects\OdeToFood\OdeToFood.Web\bin\System.ComponentModel.Annotations.dll
+C:\Users\Stephanie\Desktop\Projects\OdeToFood\OdeToFood.Web\bin\EntityFramework.dll
+C:\Users\Stephanie\Desktop\Projects\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Stephanie\Desktop\Projects\OdeToFood\OdeToFood.Web\bin\EntityFramework.xml
+C:\Users\Stephanie\Desktop\Projects\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.xml
