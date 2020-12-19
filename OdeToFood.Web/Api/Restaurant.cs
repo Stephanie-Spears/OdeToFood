@@ -1,6 +1,6 @@
-﻿namespace OdeToFood.Web.Api
+﻿/*namespace OdeToFood.Web.Api
 {
 	public class Restaurant
 	{
 	}
-}
+}*/
